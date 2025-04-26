@@ -2,3 +2,5 @@ pandas
 matplotlib
 plotly
 numpy
+os
+sys
